@@ -1,0 +1,32 @@
+
+Automation for checksum....
+Application name: Assignment11_1.py
+
+Folder:  D:\Python\Assignment11\ABC
+Subfolder:  XYZ
+Subfolder:  XYZ2
+File:  DemoABC.txt
+Hashcode:  cf12b5244051e02a36320761ed0c0cf5 
+
+
+Folder:  D:\Python\Assignment11\ABC\XYZ
+Subfolder:  PQR
+File:  DemoXYZ.txt
+Hashcode:  8b1a9953c4611296a827abf8c47804d7 
+
+
+Folder:  D:\Python\Assignment11\ABC\XYZ\PQR
+File:  DemoPQR.txt
+Hashcode:  8b1a9953c4611296a827abf8c47804d7 
+
+
+Folder:  D:\Python\Assignment11\ABC\XYZ2
+Subfolder:  PQR2
+File:  DemoXYZ2.txt
+Hashcode:  f0258b6685684c113bad94d91b8fa02a 
+
+
+Folder:  D:\Python\Assignment11\ABC\XYZ2\PQR2
+File:  DemoPQR2.txt
+Hashcode:  f0258b6685684c113bad94d91b8fa02a 
+

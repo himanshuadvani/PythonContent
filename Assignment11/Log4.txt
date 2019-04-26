@@ -1,0 +1,18 @@
+
+Automation for finding duplicate files....
+Application name: Assignment11_4.py
+
+Duplicate Files...
+
+ D:\Python\Assignment11\ABC\XYZ\DemoXYZ.txt
+
+ D:\Python\Assignment11\ABC\XYZ\PQR\DemoPQR.txt
+
+ D:\Python\Assignment11\ABC\XYZ2\DemoXYZ2.txt
+
+ D:\Python\Assignment11\ABC\XYZ2\PQR2\DemoPQR2.txt
+
+Deleting file:  D:\Python\Assignment11\ABC\XYZ\PQR\DemoPQR.txt ....
+
+Deleting file:  D:\Python\Assignment11\ABC\XYZ2\PQR2\DemoPQR2.txt ....
+time taken:  0.0016412734985351562

@@ -1,0 +1,9 @@
+Process Information if process is currently running...
+Application Name:  Assignment12_2.py
+{'name': 'firefox.exe', 'pid': 9008, 'username': 'HARBINGER\\Himanshu.Advani'}
+{'name': 'firefox.exe', 'pid': 9604, 'username': 'HARBINGER\\Himanshu.Advani'}
+{'name': 'firefox.exe', 'pid': 11040, 'username': 'HARBINGER\\Himanshu.Advani'}
+{'name': 'firefox.exe', 'pid': 11596, 'username': 'HARBINGER\\Himanshu.Advani'}
+{'name': 'firefox.exe', 'pid': 13260, 'username': 'HARBINGER\\Himanshu.Advani'}
+{'name': 'firefox.exe', 'pid': 21164, 'username': 'HARBINGER\\Himanshu.Advani'}
+
