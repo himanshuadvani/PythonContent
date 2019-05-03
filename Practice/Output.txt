@@ -1,0 +1,214 @@
+Automation scipt to download a file from the given url...
+Application Name:  WebScrapping.py
+Length:  35 
+
+Count:  1
+https://images-na.ssl-images-amazon.com/images/G/31/gno/sprites/nav-sprite-global_bluebeacon-V3-1x_optimized._CB468962293_.png
+image/png
+File downloaded successfully...
+
+
+Count:  2
+https://images-eu.ssl-images-amazon.com/images/G/31/x-locale/common/transparent-pixel._CB386942716_.gif
+image/gif
+File downloaded successfully...
+
+
+Count:  3
+https://images-eu.ssl-images-amazon.com/images/I/41BafTuw5eL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  4
+https://images-eu.ssl-images-amazon.com/images/I/31NouF+JOkL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  5
+https://images-eu.ssl-images-amazon.com/images/I/51lkK1Ol5TL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  6
+https://images-eu.ssl-images-amazon.com/images/I/51dPU8M73rL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  7
+https://images-eu.ssl-images-amazon.com/images/I/31NouF+JOkL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  8
+https://images-eu.ssl-images-amazon.com/images/I/41rCcAXZK-L._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  9
+https://images-eu.ssl-images-amazon.com/images/I/41klDgiZbzL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  10
+https://images-eu.ssl-images-amazon.com/images/I/411L3aQtyoL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  11
+https://images-eu.ssl-images-amazon.com/images/I/31WVYU+qaOL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  12
+https://images-eu.ssl-images-amazon.com/images/I/41JalK+PbXL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  13
+https://images-eu.ssl-images-amazon.com/images/I/31vfOC5hPZL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  14
+https://images-eu.ssl-images-amazon.com/images/I/517EFX17eIL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  15
+https://images-eu.ssl-images-amazon.com/images/I/41UQfhsUIxL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  16
+https://images-eu.ssl-images-amazon.com/images/I/413DJ7iLGBL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  17
+https://images-eu.ssl-images-amazon.com/images/I/41PF34wuToL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  18
+https://images-eu.ssl-images-amazon.com/images/I/412fvnQai5L._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  19
+https://images-eu.ssl-images-amazon.com/images/I/41BafTuw5eL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  20
+https://images-eu.ssl-images-amazon.com/images/I/31NouF+JOkL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  21
+https://images-eu.ssl-images-amazon.com/images/I/51lkK1Ol5TL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  22
+https://images-eu.ssl-images-amazon.com/images/I/51dPU8M73rL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  23
+https://images-eu.ssl-images-amazon.com/images/I/31NouF+JOkL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  24
+https://images-eu.ssl-images-amazon.com/images/I/41rCcAXZK-L._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  25
+https://images-eu.ssl-images-amazon.com/images/I/41klDgiZbzL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  26
+https://images-eu.ssl-images-amazon.com/images/I/411L3aQtyoL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  27
+https://images-eu.ssl-images-amazon.com/images/I/31WVYU+qaOL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  28
+https://images-eu.ssl-images-amazon.com/images/I/41JalK+PbXL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  29
+https://images-eu.ssl-images-amazon.com/images/I/31vfOC5hPZL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  30
+https://images-eu.ssl-images-amazon.com/images/I/517EFX17eIL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  31
+https://images-eu.ssl-images-amazon.com/images/I/41UQfhsUIxL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  32
+https://images-eu.ssl-images-amazon.com/images/I/413DJ7iLGBL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  33
+https://images-eu.ssl-images-amazon.com/images/I/41PF34wuToL._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  34
+https://images-eu.ssl-images-amazon.com/images/I/412fvnQai5L._AC_US218_.jpg
+image/jpeg
+File downloaded successfully...
+
+
+Count:  35
+https://images-eu.ssl-images-amazon.com/images/G/31/nav2/images/gui/prime-check-badge-14._CB138348888_.gif
+image/gif
+File downloaded successfully...
+
+
